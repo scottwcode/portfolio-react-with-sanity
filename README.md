@@ -1,4 +1,4 @@
-# Portfolio app create with react (frontend) and sanity.io (backend)
+# Portfolio app created with react (frontend) and sanity.io (backend)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
