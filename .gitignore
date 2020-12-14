@@ -7,7 +7,7 @@ node_modules
 
 # Sanity.io stuff
 portfolio/node_modules
-src/client.js
+# src/client.js
 
 # testing
 /coverage
