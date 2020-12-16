@@ -9,6 +9,9 @@ node_modules
 portfolio/node_modules
 # src/client.js
 
+# cache
+.eslintcache
+
 # testing
 /coverage
 
