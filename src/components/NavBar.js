@@ -20,7 +20,7 @@ export default function NavBar() {
             // className="inline-fle items-center py-3 px-3 my-6 rounded text-red-200 hover:text-green-800"
             className="inline-fle items-center py-3 px-3 my-6 rounded text-purple-200 hover:text-green-500"
             // activeClassName="text-red-100 bg-red-700"
-            activeClassName="text-purple-100 bg-purple-700"
+            activeClassName="text-purple-100 bg-purple-600"
             >
             Blog Posts
           </NavLink>
@@ -29,7 +29,7 @@ export default function NavBar() {
             // className="inline-fle items-center py-3 px-3 my-6 rounded text-red-200 hover:text-green-800"
             className="inline-fle items-center py-3 px-3 my-6 rounded text-purple-200 hover:text-green-500"
             // activeClassName="text-red-100 bg-red-700"
-            activeClassName="text-purple-100 bg-purple-700"
+            activeClassName="text-purple-100 bg-purple-600"
             >
             Projects
           </NavLink>
@@ -38,7 +38,7 @@ export default function NavBar() {
             // className="inline-fle items-center py-3 px-3 my-6 rounded text-red-200 hover:text-green-800"
             className="inline-fle items-center py-3 px-3 my-6 rounded text-purple-200 hover:text-green-500"
             // activeClassName="text-red-100 bg-red-700"
-            activeClassName="text-purple-100 bg-purple-700"
+            activeClassName="text-purple-100 bg-purple-600"
             >
             About
           </NavLink>
