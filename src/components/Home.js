@@ -1,6 +1,6 @@
 import React from 'react';
 // import image from "../beach-01.jpg"
-import image from "../parasailing8.png"
+import image from "../parasailing8-min.png"
 
 export default function Home() {
   return (
